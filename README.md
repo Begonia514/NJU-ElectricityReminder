@@ -129,6 +129,12 @@ def mail(message):
 
 #### main函数
 
+获取数据
+
+保留日志
+
+判断与发送消息
+
 ```python
 #设置警告电量
 warningNum = 30
